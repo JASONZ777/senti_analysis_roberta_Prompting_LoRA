@@ -12,3 +12,5 @@ Method 2: Prompt+Roberta
 
 Method 3: QLoRA + Roberta
 
+<img width="445" alt="84c83933fb98c929eecb46badea7870" src="https://github.com/JASONZ777/senti_analysis_Prompt_BERT_LoRA/assets/94668646/f5809b02-91f2-4e3f-be55-c3fb71374771">
+
